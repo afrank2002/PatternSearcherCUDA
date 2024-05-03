@@ -1,1 +1,4 @@
-Pattern found at position: (1, 6)
+Pattern found at position: (4, 1)
+Pattern found at position: (9, 1)
+Pattern found at position: (16, 1)
+Pattern found at position: (19, 1)
